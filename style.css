@@ -1,0 +1,75 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    font-family: sans-serif;
+    color: black
+}
+
+p{
+    color: gray;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+div.man_Power{
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 40px;
+}
+
+div.mmm_power{
+    width: 350px;
+    height: 300px;
+    color: brown;
+}
+
+div.compuer_1{
+    border: 1px solid lightgrey;
+    background-color: white;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    width: 240px;
+    height: 290px;
+    text-align: center;  
+}
+
+h4{
+    color: rebeccapurple;
+    text-align: left;
+}
+
+button{
+    background-color: lightblue;
+    color: blueviolet;
+    padding: 10px;
+    height: 40px;
+    width: 225px;
+    border-color: blueviolet;
+    
+}
+input{
+    text-align: center;
+    padding: 10px;
+    height: 20px;
+    width: 197px;
+}
+h3.india{
+    text-align: left;
+    color:  #e13713;
+}
+
+
